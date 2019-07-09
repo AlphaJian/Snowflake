@@ -1,5 +1,5 @@
 PODS:
-  - FantasticSnowflake (2.3.0):
+  - FantasticSnowflake (1.0.0):
     - Reindeers
   - Reindeers (2.2.0)
 
@@ -19,9 +19,9 @@ CHECKOUT OPTIONS:
     :git: https://github.com/onmyway133/Reindeers.git
 
 SPEC CHECKSUMS:
-  FantasticSnowflake: 6bdb9321ce466a20c374ae6cb61554e7fd370445
+  FantasticSnowflake: 984ed6d72a45ed39cec2d50149bc7a3a4949d590
   Reindeers: 0c781130bc9088550c70d02a1caf3e328a4b1126
 
-PODFILE CHECKSUM: b35916a2026a4c82ff58294a8152f2fbd4606f5c
+PODFILE CHECKSUM: 95ffa33ed47db101e599cc5518a1da9120801319
 
-COCOAPODS: 1.7.0.beta.3
+COCOAPODS: 1.6.1

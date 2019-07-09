@@ -47,7 +47,7 @@ struct Color {
     }
     
     if components.count == 3 {
-      return UIColor(red: components[0], green: components[1], blue: components[2], alpha: 1)
+      return UIColor(red: components[0] / 255.0, green: components[1] / 255.0, blue: components[2] / 255.0, alpha: 1)
     } else {
       return UIColor.white
     }
